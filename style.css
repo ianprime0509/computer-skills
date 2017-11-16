@@ -4,6 +4,7 @@ html {
 }
 
 body {
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0 auto;
     max-width: 50rem;
 }
@@ -17,11 +18,21 @@ a:visited {
 }
 
 h1 {
+    font-family: 'Lato', sans-serif;
     text-align: center;
 }
 
 h2 {
+    font-family: 'Lato', sans-serif;
     text-align: center;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+h4 {
+    font-family: 'Lato', sans-serif;
 }
 
 p {
