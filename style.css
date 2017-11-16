@@ -1,0 +1,30 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50rem;
+}
+
+a:link {
+    color: #0070EE;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.vocab {
+    color: #550000;
+    font-style: italic;
+}
